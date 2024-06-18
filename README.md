@@ -6,16 +6,9 @@
 
  # INTRODUCTION 
 
-   * University Name: http://www.sjsu.edu/
-
-   * Course: [Cloud Technologies](http://info.sjsu.edu/web-dbgen/catalog/courses/CMPE281.html/)
-
-   * Professor: [Sanjay Garje](https://www.linkedin.com/in/sanjaygarje/)
-
-   * ISA: [Divyanthika Urs](https://www.linkedin.com/in/divyankithaurs/)
+  
    
-   * Student: [Anuradha Rajashekar](https://www.linkedin.com/in/anu-rajashekar-4b950092/)
-   
+   * Student: gowtham S
    # PROJECT IDEA
 
    * ‘Save To the Cloud’ is a full stack web application that mainly deals with storing and saving files by leveraging cloud infrastructure.
